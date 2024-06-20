@@ -3,9 +3,9 @@ package com.example.common.util
 object Constants {
 
     const val secret = "aVerySecretKey"
-    const val issuer = "demos.inassar.me"
-    const val audience = "demos.inassar.me"
-    const val mRealm = "Access to 'demos.inassar.me'"
+    const val issuer = "demos.sajal.me"
+    const val audience = "demos.sajal.me"
+    const val mRealm = "Access to 'demos.sajal.me'"
 
     const val ENDPOINT_SIGNUP = "/auth/signup"
     const val ENDPOINT_LOGIN = "auth/login"
