@@ -1,4 +1,4 @@
-package com.example.features.chat.data.dao
+package com.example.features.chat.resource.data
 
 import kotlinx.serialization.Serializable
 

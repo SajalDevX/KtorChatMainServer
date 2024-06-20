@@ -1,6 +1,6 @@
 package com.example.features.auth.resource.data
 
-import com.example.features.chat.data.dao.Message
+import com.example.features.chat.resource.data.Message
 import kotlinx.serialization.Serializable
 
 @Serializable

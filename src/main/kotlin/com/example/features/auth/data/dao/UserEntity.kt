@@ -1,6 +1,6 @@
 package com.example.features.auth.data.dao
 
-import com.example.features.chat.data.dao.Message
+import com.example.features.chat.resource.data.Message
 import kotlinx.serialization.Serializable
 import org.bson.codecs.pojo.annotations.BsonId
 import org.bson.types.ObjectId
