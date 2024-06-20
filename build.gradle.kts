@@ -53,5 +53,11 @@ dependencies {
     testImplementation("io.ktor:ktor-server-tests:$ktor_version")
     testImplementation("org.jetbrains.kotlin:kotlin-test-junit:$kotlin_version")
 
+    implementation ("com.auth0:java-jwt:4.2.1")
+    implementation( "io.ktor:ktor-server-auth:2.0.0" )
+    implementation ("io.ktor:ktor-server-auth-jwt:2.0.0")
+
+
+
 
 }
